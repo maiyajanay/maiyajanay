@@ -1,3 +1,6 @@
+
+![My Image](assets/cover_photo.jpg)
+
 ## Hi there 👋
 
 
