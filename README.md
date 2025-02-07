@@ -3,9 +3,9 @@
 
 ## Hey, I'm Maiya!
 
-> I'm a Software Engineer with a strong foundation in JavaScript, TypeScript, and React. I successfully transitioned into tech last year after a rigorous 6-month coding bootcamp to now working as a Software Engineer. With 5 years of professional experience before moving to tech, I have honed my interpersonal communication skills, growth mindset, and delivering quality work in a fast-paced environment. I am skilled at managing multiple responsibilities simultaneously while maintaining a high level of attention to detail. When working independently or as part of a team, I am dedicated to achieving outstanding results and exceeding expectations.
+I'm a Software Engineer with a strong foundation in **JavaScript**, **TypeScript**, and **React**. I successfully transitioned into tech last year after a rigorous 6-month coding bootcamp to now working as a Software Engineer. With 5 years of professional experience before moving to tech, I have honed my interpersonal communication skills, growth mindset, and delivering quality work in a fast-paced environment. I am skilled at managing multiple responsibilities simultaneously while maintaining a high level of attention to detail. Whether working independently or as part of a team, I am dedicated to achieving outstanding results and exceeding expectations.
 
-> When I'm not building my own projects or expanding my toolbelt by learning new tools & technologies, you can find my cozied up with a good book, playing Overcooked or Mario Kart on the Switch, or paddle boarding somewhere in Tampa Bay.
+When I'm not building my own projects or expanding my toolbelt by learning new tools & technologies, you can find my cozied up with a good book, playing Overcooked or Mario Kart on the Switch, or paddle boarding somewhere in Tampa Bay.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maiyajanay&theme=vue&show_icons=true&hide_border=true&layout=compact)
 <!--
