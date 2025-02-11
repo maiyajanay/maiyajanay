@@ -7,7 +7,7 @@ I'm a Software Engineer with a strong foundation in **JavaScript**, **TypeScript
 
 When I'm not building my own projects or expanding my toolbelt by learning new tools & technologies, you can find my cozied up with a good book, playing Overcooked or Mario Kart on the Switch, or paddle boarding somewhere in Tampa Bay.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maiyajanay&theme=vue&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maiyajanay&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
 <!--
 **maiyajanay/maiyajanay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
