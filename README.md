@@ -7,9 +7,10 @@ I'm a Software Engineer with a strong foundation in **JavaScript**, **TypeScript
 
 When I'm not building my own projects or expanding my toolbelt by learning new tools & technologies, you can find my cozied up with a good book, playing Overcooked or Mario Kart on the Switch, or paddle boarding somewhere in Tampa Bay.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maiyajanay&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
-
+---
 ## **Skills**  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maiyajanay&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
 
 ### **Languages & Software**  
 - JavaScript, TypeScript, HTML, CSS  
@@ -53,7 +54,7 @@ When I'm not building my own projects or expanding my toolbelt by learning new t
 
 ---
 
-## **Stats & Contact Info**  
+## **Contact Info**  
 📧 **Email:** [maiyajanay@gmail.com](mailto:maiyajanay@gmail.com)  
 <!--
 **maiyajanay/maiyajanay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
