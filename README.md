@@ -35,13 +35,13 @@ When I'm not building my own projects or expanding my toolbelt by learning new t
 
 ### **Packing Planner App**  
 **Technologies:** React, Node.js, MongoDB, Firebase  
-[🔗 Web App Link](#) | [🔗 GitHub Link](#)  
+[🔗 Web App Link](https://gc-packing-planner.web.app) | [🔗 GitHub Link](https://github.com/maiyajanay/packing-planner)  
 - React app that generates personalized packing lists based on real-time weather, trip duration, and location.  
 - Implements CRUD operations, conditional rendering, state management, Context API, client-side routing, and notifications.  
 
 ### **Village Simulator**  
 **Technologies:** React, JavaScript, TypeScript  
-[🔗 GitHub Link](#)  
+[🔗 GitHub Link](https://github.com/maiyajanay/village-simulator-project)  
 - Built a village simulator game with a dynamic ecosystem.  
 - Utilizes Object-Oriented Programming (OOP), state management, and event handling.  
 - Supports villager behaviors, resource management, and interactive events.  
